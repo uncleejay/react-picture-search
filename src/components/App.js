@@ -14,7 +14,7 @@ class App extends React.Component{
             // want to add to this request
             params: { query: term },
             headers: {
-                Authorization: 'Client-ID re_IAYP9rMuY2oERwBskG8brW8OgqNBuNyrhpMEShOs'
+                Authorization: 'Client-ID APIKEY'
             }
         });
     }
